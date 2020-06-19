@@ -1,0 +1,44 @@
+body{
+	background-color:#525252;
+}
+h1{
+	color:red;
+	text-align:center;
+	background-color:#dadada;
+}
+p{
+	color:#d5a4cf;
+	font-size:50px;
+	padding-left:350px;
+	padding-right:350px;
+}
+.main img{
+	padding-left:150px;
+}
+.ar1{
+	color:#8ac6d1;
+	font-size:20px;
+	padding-left:350px;
+	padding-right:350px;
+}
+.aar{
+	color:#dadada;
+	text-align:center;
+	font-size:30px;
+}
+.my{
+	background-color:#060608;
+	font-size:20px;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+}
+.info{
+	background-color:#2a333c;
+	font-size:20px;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:10px;
+}
+
